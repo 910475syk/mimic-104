@@ -1,0 +1,20 @@
+[
+    {
+        "date":"12/23",
+        "main-title":"前端工程師",
+        "subtitle":"ABC有限公司",
+        "history": "台北市中山區",
+        "work-content":"我們的產品沒有使用任何framework，使用的library也相當少，我們不需要您熟悉各式各樣業界常用的 framework/library (Ex. Spring, struts, JQuery, AngularJS...etc)。但是需要您良好的邏輯能力，以及對於資料庫軟體的熱誠！",
+        "tag":"月薪45000~70000",
+        "people number":"6~10人應徵"
+    },
+    {
+        "date":"12/23",
+        "main-title":"前端工程師",
+        "subtitle":"ABC有限公司",
+        "history": "台北市中山區",
+        "work-content":"我們的產品沒有使用任何framework，使用的library也相當少，我們不需要您熟悉各式各樣業界常用的 framework/library (Ex. Spring, struts, JQuery, AngularJS...etc)。但是需要您良好的邏輯能力，以及對於資料庫軟體的熱誠！",
+        "tag":"月薪45000~70000",
+        "people number":"6~10人應徵"
+    }
+]
