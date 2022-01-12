@@ -51,7 +51,7 @@ $(document).ready(function(){
     }
     $.ajax({
         type: "Get",
-        url: "/Data/Json/104.json",
+        url: "Data/Json/104.json",
         cache: false,
         success: function(result){
             append_works_detal(result,1);
@@ -62,7 +62,7 @@ $(document).ready(function(){
     })
     $.ajax({
         type: "Get",
-        url: "/Data/Json/104-2.json",
+        url: "Data/Json/104-2.json",
         cache: false,
         success: function(result){
             append_works_detal(result,2);
@@ -90,7 +90,7 @@ $(document).ready(function(){
 
     $.ajax({
         type:"Get",
-        url:"/Data/Json/104works.json",
+        url:"Data/Json/104works.json",
         cache: false,
         success: function(result){
             append_works_ad_data(result);
@@ -113,7 +113,7 @@ $(document).ready(function(){
 
     $.ajax({
         type:"Get",
-        url:"/Data/Json/works-recommend.json",
+        url:"Data/Json/works-recommend.json",
         cache: false,
         success: function(result){
             append_works_recommend_data(result);
