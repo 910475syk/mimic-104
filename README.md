@@ -1,3 +1,7 @@
+# 實際呈現
+
+URL： https://910475syk.github.io/mimic-104/#
+
 # 簡介
 這是一個模仿 https://www.104.com.tw/ 職缺介紹頁面的自我練習
 
